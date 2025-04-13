@@ -20,7 +20,7 @@ var data = {
             "conference": "The Thirty-Ninth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)",
             "year": 2025,
             "arxiv": "",
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
         },
 
         {
@@ -30,7 +30,7 @@ var data = {
                 "authors": "Yiliang Chen, Steven SC Ho, Cheng Xu*, Yao Jie Xie, Wing Fai Yeung, Shengfeng He, Jing Qin",
                 "conference": "The Thirty-Ninth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)",
                 "year": 2025,
-                "pdf": "xxxxx",
+                "pdf": "https://cschengxu.github.io/",
                 "github": "",
             },
 
@@ -42,7 +42,7 @@ var data = {
             "conference": "The European Conference on Computer Vision (<b>ECCV</b>)",
             "year": 2024,
             "oral": "Oral, 2.0%",
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
 
@@ -55,7 +55,7 @@ var data = {
             "conference": "The 32nd ACM International Conference on Multimedia (<b>ACM MM</b>)",
             "year": 2024,
             "oral": "Oral, 3.97%",
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
 
@@ -66,7 +66,7 @@ var data = {
             "authors": "Weiying Zheng#, Cheng Xu#, Xuemiao Xu, Wenxi Liu, and Shengfeng He",
             "conference": "International Conference on Computer Vision (<b>ICCV</b>)",
             "year": 2023,
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
             },
 
@@ -77,7 +77,7 @@ var data = {
             "authors": "Xuemiao Xu, Keke Li, Cheng Xu, and Shengfeng He",
             "conference": "The Thirty-Fourth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)",
             "year": 2020,
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
 
@@ -91,7 +91,7 @@ var data = {
             "authors": "Bangzhen Liu, Chenxi Zheng, Xuemiao Xu, Cheng Xu*, Huaidong Zhang, Shengfeng He",
             "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)",
             "year": "2025",
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
         {   
@@ -101,7 +101,7 @@ var data = {
             "authors": "Yihong Lin, Xuemiao Xu, Huaidong Zhang, Cheng Xu*, Weijie Li, Yi Xie, Jing Qin, Shengfeng He",
             "journal": "IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>)",
             "year": "2025",
-            "pdf": "https://ieeexplore.ieee.org/abstract/document/10235894"
+            "pdf": "https://cschengxu.github.io/"
         },
         {
             "highlight": true,
@@ -110,7 +110,7 @@ var data = {
             "authors": "Bangzhen Liu, Yangyang Xu, Cheng Xu*, Xuemiao Xu, Shengfeng He",
             "journal": "IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)",
             "year": "2025",
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
         {
@@ -120,7 +120,7 @@ var data = {
             "authors": "Haoxin Yang, Xuemiao Xu, Cheng Xu*, Huaidong Zhang, Jing Qin, Yi Wang, Pheng-Ann Heng, Shengfeng He",
             "journal": "IEEE Transactions on Information Forensics and Security (<b>TIFS</b>)",
             "year": "2024",
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
         {
@@ -130,17 +130,17 @@ var data = {
             "authors": "Cheng Xu, Zejun Chen, Jiajie Mai, Xuemiao Xu, and Shengfeng He",
             "journal": "ACM Transactions Multimedia Computing, Communications, and Applications (<b>TOMM</b>)",
             "year": 2023,
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
         {
             "highlight": true,
             "img": "images/Cartoon_animations.png",
             "title": "Multi-scale Flow-based Occluding Effect and Content Separation for Cartoon Animations",
-            "authors": "Cheng Xu, Wei Qu, Xuemiao Xu, and Xueting Liun",
+            "authors": "Cheng Xu, Wei Qu, Xuemiao Xu, and Xueting Liu",
             "journal": "IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>)",
             "year": "2022",
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
         {
@@ -150,7 +150,7 @@ var data = {
             "authors": "Cheng Xu, Keke Li, Xuandi Luo, Xuemiao Xu, Shengfeng He, and Kun Zhang",
             "journal": "IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)",
             "year": 2022,
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "project": "",
         },
         {
@@ -160,7 +160,7 @@ var data = {
             "authors": "Wenpeng Xiao#, Cheng Xu#, Jiajie Mai, Xuemiao Xu, Chengze Li, Xueting Liu, and Shengfeng He",
             "journal": "IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>)",
             "year": 2022,
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
         {
@@ -170,7 +170,7 @@ var data = {
             "authors": "Lanqing Liu, Jing Zou, Cheng Xu, Kang Wang, Jun Lyu, Xuemiao Xu, Zhanli Hu, Jing Qin",
             "journal": "Journal of Biomedical and Health Informatics (<b>JBHI</b>)",
             "year": 2024,
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
         {
@@ -180,7 +180,7 @@ var data = {
             "authors": "Yangyang Xu, Xuemiao Xu, Jianbo Jiao, Keke Li, Cheng Xu, and Shengfeng He",
             "journal": "IEEE Transactions on Image Processing (<b>TIP</b>)",
             "year": 2023,
-            "pdf": "xxxxx",
+            "pdf": "https://cschengxu.github.io/",
             "github": "",
         }
     ],
@@ -192,37 +192,13 @@ var data = {
     },
     "author_links":
     {
-        "Kwan-Yee K. Wong": "http://www.cs.hku.hk/~kykwong",
-        "Liang Liao": "https://liaoliang92.github.io/homepage/",
-        "Xiaoming Li": "https://csxmli2016.github.io/",
-        "Haoning Wu": "http://teowu.github.io/",
-        "Weisi Lin": "https://personal.ntu.edu.sg/wslin/Home.html",
-        "Lei Zhang": "http://www4.comp.polyu.edu.hk/~cslzhang/",
-        "Guanying Chen": "https://guanyingc.github.io/",
-        "Zhenfang Chen": "http://zfchenunique.github.io/",
-        "Wenqi Yang": "https://ywq.github.io/",
-        "Wangmeng Zuo": "http://homepage.hit.edu.cn/wangmengzuo",
-        "Shangchen Zhou": "https://shangchenzhou.com/",
-        "Lingbo Yang": "http://lotayou.github.io/",
-        "Xiaoguang Han": "https://mypage.cuhk.edu.cn/academics/hanxiaoguang/",
-        "Chunyi Li": "http://lcysyzxdxc.github.io/",
-        "Guangtao Zhai": "https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm",
-        "Zicheng Zhang": "https://github.com/zzc-1998",
-        "Yipeng Qin": "https://www.cardiff.ac.uk/people/view/1508897-qin-yipeng",
-        "Jinwei Gu": "http://www.gujinwei.org/",
-        "Yuming Fang": "https://sites.google.com/site/leofangyuming/",
-        "Shaozheng Hao": "https://haoosz.github.io/",
-        "Mengcheng Lan": "https://mc-lan.github.io/",
-        "Wenxiu Sun": "http://wenxiusun.com/",
-        "Weixia Zhang": "https://sites.google.com/view/r-panda",
-        "Yixuan Gao": "https://github.com/YixuanGao98",
-        "Annan Wang": "https://github.com/AnnanWangDaniel",
-        "Erli Zhang": "https://github.com/ZhangErliCarl/",
-        "Qiong Yan": "https://scholar.google.com/citations?user=uT9CtPYAAAAJ&hl=en",
-        "Xiongkuo Min": "https://sites.google.com/site/minxiongkuo/",
-        "Jingwen Hou": "https://scholar.google.com.sg/citations?user=NlNOyiQAAAAJ&hl=zh-CN",
-        "Tao Yang": "https://github.com/yangxy",
-        "Shihui Guo": "https://scholar.google.co.uk/citations?user=RPAVxiAAAAAJ&hl=en",
-        "Xinyu Shi": "https://xinyu-shi.github.io/",
+        "Xuemiao Xu": "https://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm",
+        "Shengfeng He": "https://shengfenghe.github.io/",
+        "Jing Qin": "https://harry-qinjing.github.io/",
+        "Huaidong Zhang": "https://www2.scut.edu.cn/ft/2021/1102/c29779a495444/page.htm",
+        "Yangyang Xu":"https://cnnlstm.github.io/",
+        "Pheng-Ann Heng":"https://www.cse.cuhk.edu.hk/~pheng/",
+        "Xueting Liu":"https://www.sfu.edu.hk/en/schools-and-offices/schools-and-departments/school-of-computing-and-information-sciences/staff-directory/dr-tina-liu-xueting/index.html",
+        "Chengze Li":"https://www.sfu.edu.hk/en/schools-and-offices/schools-and-departments/school-of-computing-and-information-sciences/staff-directory/dr-li-chengze/index.html",
     }
 };
