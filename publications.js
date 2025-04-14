@@ -33,7 +33,7 @@ var data = {
                 "github": "",
             },
         {
-            "highlight": true,
+            "highlight": false,
             "img": "images/Tongue.png",
             "title": "SCJD: Sparse Correlation and Joint Distillation for Efficient 3D Human Pose Estimation",
             "authors": "Weihong Chen, Xuemiao Xu, Haoxin Yang, Yi Xie, Peng Xiao, Cheng Xu, Huaidong Zhang, and Pheng-Ann Heng",
