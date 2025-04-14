@@ -69,6 +69,17 @@ var data = {
         },
 
         {
+            "highlight": false,
+            "img": "images/Portrait_shadow.png",
+            "title": "Exploiting Multi-View Clues for Context-Aware Unified Lumbar MRI Identification and Diagnosis",
+            "authors": "Weiwen Zhang#, Cheng Xu#, Xuemiao Xu, Huaidong Zhang, Rongchen Zhao, and Jing Qin",
+            // "preprint": "arXiv",
+            "conference": "2024 International Joint Conference on Neural Networks (<b>IJCNN</b>)",
+            "year": 2024,
+            "pdf": "https://cschengxu.github.io/",
+            "github": "",
+        },
+        {
             "highlight": true,
             "img": "images/CIRI.png",
             "title": "CIRI: Curricular Inactivation for Residue-aware One-shot Video Inpainting",
@@ -78,6 +89,18 @@ var data = {
             "pdf": "https://cschengxu.github.io/",
             "github": "",
             },
+        
+        {
+            "highlight": false,
+            "img": "images/Portrait_shadow.png",
+            "title": "Spatial-Aware GAN for Instance-Guided Cross-Spectral Face Hallucination",
+            "authors": "Wenpeng Xiao, Cheng Xu, Huaidong Zhang, and Xuemiao Xu",
+            // "preprint": "arXiv",
+            "conference": "Artificial Intelligence: Second CAAI International Conference (<b>CICAI</b>)",
+            "year": 2022,
+            "pdf": "https://cschengxu.github.io/",
+            "github": "",
+        },
 
         {
             "highlight": false,
