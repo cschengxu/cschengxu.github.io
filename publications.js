@@ -14,7 +14,7 @@ var data = {
         {
             "highlight": true,
             "img": "images/FR2Seg.png",
-            "title": "FR2Seg: Continual Segmentation Across Multiple Sites via Fourier Style Replay and Adaptive Consistency Regularization",
+            "title": "FR<sup>2</sup>Seg: Continual Segmentation Across Multiple Sites via Fourier Style Replay and Adaptive Consistency Regularization",
             "authors": "Cheng Xu, Weiwen Zhang, Hongrui Zhang, Xuemiao Xu, Huaidong Zhang, Jing Zou, and Jing Qin",
             // "preprint": "arXiv",
             "conference": "The Thirty-Ninth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)",
@@ -158,7 +158,7 @@ var data = {
         {
             "highlight": true,
             "img": "images/Face_anonymization.png",
-            "title": "G2Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors",
+            "title": "G<sup>2</sup>Face: High-Fidelity Reversible Face Anonymization via Generative and Geometric Priors",
             "authors": "Haoxin Yang, Xuemiao Xu, Cheng Xu*, Huaidong Zhang, Jing Qin, Yi Wang, Pheng-Ann Heng, and Shengfeng He",
             "journal": "IEEE Transactions on Information Forensics and Security (<b>TIFS</b>)",
             "year": 2024,
