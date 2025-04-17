@@ -26,7 +26,7 @@ var data = {
                 "highlight": true,
                 "img": "images/Tongue.png",
                 "title": "Dr. Tongue: Sign-Oriented Multi-label Detection for Remote Tongue Diagnosis",
-                "authors": "Yiliang Chen, Steven SC Ho, Cheng Xu*, Yao Jie Xie, Wing Fai Yeung, Shengfeng He, and Jing Qin",
+                "authors": "Yiliang Chen, Steven SC Ho, Cheng Xu&#9993, Yao Jie Xie, Wing Fai Yeung, Shengfeng He, and Jing Qin",
                 "conference": "The Thirty-Ninth AAAI Conference on Artificial Intelligence (<b>AAAI</b>)",
                 "year": 2025,
                 "pdf": "https://cschengxu.github.io/",
