@@ -118,6 +118,16 @@ var data = {
         // ========================================
         {
             "highlight": true,
+            "img": "images/GenPoly.png",
+            "title": "GenPoly: Learning Generalized and Tessellated Shape Priors via 3D Polymorphic Evolving",
+            "authors": "Bangzhen Liu, Yuyang Yu, Xuemiao Xu, Cheng Xu&#9993, Chenxi Zheng, Haoxin Yang, Shaoyu Huang, and Shengfeng He",
+            "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)",
+            "year": "2025",
+            "pdf": "https://cschengxu.github.io/",
+            "github": "",
+        },
+        {
+            "highlight": true,
             "img": "images/Pointcloud_generalization.png",
             "title": "Rotation-Adaptive Point Cloud Domain Generalization via Intricate Orientation Learning",
             "authors": "Bangzhen Liu, Chenxi Zheng, Xuemiao Xu, Cheng Xu&#9993, Huaidong Zhang, and Shengfeng He",
