@@ -147,6 +147,16 @@ var data = {
         },
         {
             "highlight": true,
+            "img": "images/StarPose.png",
+            "title": "StarPose: 3D Human Pose Estimation via Spatial-Temporal Autoregressive Diffusion",
+            "authors": "Haoxin Yang, Weihong Chen, Xuemiao Xu, Cheng Xu&#9993, Peng Xiao, Cuifeng Sun, Shaoyu Huang, and Shengfeng He",
+            "journal": "IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)",
+            "year": "2025",
+            "pdf": "https://cschengxu.github.io/",
+            "github": "",
+        },
+        {
+            "highlight": true,
             "img": "images/Mix_domain.png",
             "title": "Open-set Mixed Domain Adaptation via Visual-Linguistic Focal Evolving",
             "authors": "Bangzhen Liu, Yangyang Xu, Cheng Xu&#9993, Xuemiao Xu, and Shengfeng He",
