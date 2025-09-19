@@ -13,6 +13,17 @@ var data = {
         // },
         {
             "highlight": true,
+            "img": "images/StableGuard.png",
+            "title": "StableGuard: Towards Unified Copyright Protection and Tamper Localization in Latent Diffusion Models",
+            "authors": "Haoxin Yang, Bangzhen Liu, Xuemiao Xu, Cheng Xu&#9993, Yuyang Yu, Zikai Huang, Yi Wang, and Shengfeng He",
+            // "preprint": "arXiv",
+            "conference": "The Thirty-ninth Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>)",
+            "year": 2025,
+            "arxiv": "",
+            "pdf": "https://cschengxu.github.io/",
+        },
+        {
+            "highlight": true,
             "img": "images/FR2Seg.png",
             "title": "FR<sup>2</sup>Seg: Continual Segmentation Across Multiple Sites via Fourier Style Replay and Adaptive Consistency Regularization",
             "authors": "Cheng Xu, Weiwen Zhang, Hongrui Zhang, Xuemiao Xu, Huaidong Zhang, Jing Zou, and Jing Qin",
