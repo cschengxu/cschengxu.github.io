@@ -178,6 +178,16 @@ var data = {
         },
         {
             "highlight": false,
+            "img": "images/Mix_domain.png",
+            "title": "VolumeSwap: Volumetric Decomposed 3D-Aware Face Swapping",
+            "authors": "Yuyuan Chen, Cheng Xu, Xuemiao Xu, Yangyang Xu, Weiying Zheng, Huaidong Zhang, and Shengfeng He",
+            "journal": "Computer Graphics Forum (<b>CGF</b>)",
+            "year": "2025",
+            "pdf": "https://cschengxu.github.io/",
+            "github": "",
+        },
+        {
+            "highlight": false,
             "img": "images/TIP2020_SPARNet.png",
             "title": "Towards Label-free Defect Detection in Additive Manufacturing via Dual-classifier Semi-supervised Learning for Vision-language Models",
             "authors": "Kang Wang, Lanqing Liu, Cheng Xu, Jing Zou, Haoneng Lin, Naiyu Fang, and Jingchao Jiang",
