@@ -178,7 +178,7 @@ var data = {
         },
         {
             "highlight": false,
-            "img": "images/Mix_domain.png",
+            "img": "images/TIP2020_SPARNet.png",
             "title": "VolumeSwap: Volumetric Decomposed 3D-Aware Face Swapping",
             "authors": "Yuyuan Chen, Cheng Xu, Xuemiao Xu, Yangyang Xu, Weiying Zheng, Huaidong Zhang, and Shengfeng He",
             "journal": "Computer Graphics Forum (<b>CGF</b>)",
