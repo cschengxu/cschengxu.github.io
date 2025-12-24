@@ -147,6 +147,16 @@ var data = {
             "pdf": "https://cschengxu.github.io/",
             "github": "",
         },
+        {
+            "highlight": true,
+            "img": "images/Think2sing.png",
+            "title": "Think2Sing: Orchestrating Structured Motion Subtitles for Singing-Driven 3D Head Animation",
+            "authors": "Zikai Huang, Yihan Zhou, Xuemiao Xu, Cheng Xu&#9993, Xiaofen Xing, Jing Qin, and Shengfeng He",
+            "journal": "IEEE Transactions on Visualization and Computer Graphics (<b>TVCG</b>)",
+            "year": "2025",
+            "pdf": "https://cschengxu.github.io/",
+            "github": "",
+        },
         {   
             "highlight": true,
             "img": "images/Human_rendering.png",
